@@ -1,4 +1,8 @@
 _repo: Marcus-O-Brienin-kohtalo_48564
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: London, Jack
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/120
     wikipedia: http://en.wikipedia.org/wiki/Jack_London
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48564#Marcus-O-Brienin-kohtalo
 gutenberg_issued: '2015-03-23'
 gutenberg_type: Text
 identifiers:
